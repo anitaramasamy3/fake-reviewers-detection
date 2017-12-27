@@ -2,7 +2,7 @@
 
 This project was done as a part of Data Visual and Analytics course - CSE6242 at Georgia Institute of Technology.
 
-# Desctiption
+# Description
 
 A fake reviewer detection system using Belief propagation
 
